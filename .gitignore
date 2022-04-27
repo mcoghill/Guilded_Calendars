@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 # Temp directory
 temp/
+
+# Other files
+old_calendar.ics
