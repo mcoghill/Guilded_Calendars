@@ -414,6 +414,20 @@ DESCRIPTION:NA
 LOCATION:NA
 END:VEVENT
 BEGIN:VEVENT
+UID:3dbd7b6f-c855-4056-9d9c-200908b3c80e-event-5285575.guilded.gg
+SUMMARY:KXI - truck driving
+DTSTAMP:20220510T191358Z
+DTSTART;VALUE=DATE:20220627
+DTEND;VALUE=DATE:20220702
+URL:https://www.guilded.gg/Fraser-Lab/groups/PdYpkweD/channels/3dbd7b6f-c85
+	5-4056-9d9c-200908b3c80e/calendar/5285575
+STATUS:TENTATIVE
+CREATED:20220510T200600Z
+DESCRIPTION:Setting up lanes/experimental area\nDriving KXI and standard tr
+	uck\nData collection\n\nLaura\, Keenan\, +2 RAs
+LOCATION:NA
+END:VEVENT
+BEGIN:VEVENT
 UID:3dbd7b6f-c855-4056-9d9c-200908b3c80e-event-5280196.guilded.gg
 SUMMARY:Goudie - PWS (shotgun sampling)
 DTSTAMP:20220430T174637Z
